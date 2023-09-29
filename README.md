@@ -9,7 +9,7 @@ This Python script allows you to scrape images from Google Images based on a spe
 
 Clone this repository to your local machine:
 ```bash
-git clone https://github.com/mahmutovichana/googleImageScraper.git
+git clone https://github.com/mahmutovichana/Google-Image-Scraper.git
 ```
 
 Install the required Python packages:
@@ -20,7 +20,7 @@ Update the query variable in the googleImageScraper.py file with your desired se
 
 Run the script:
 ``` python
-python google_image_scraper.py
+python googleImageScraper.py
 ```
 
 Images matching your query will be downloaded and saved to a folder on your desktop.
