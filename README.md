@@ -11,7 +11,10 @@ Clone this repository to your local machine:
 ```bash
 git clone https://github.com/mahmutovichana/Google-Image-Scraper.git
 ```
-
+Navigate to the project folder:
+``` bash
+cd Google-Image-Scraper
+```
 Install the required Python packages:
 ``` bash
 pip install -r requirements.txt
